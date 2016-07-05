@@ -1,0 +1,2 @@
+# magicadmin
+Template Administrativo
