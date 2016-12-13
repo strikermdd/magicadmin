@@ -1,11 +1,13 @@
 Introduction
 ============
 
-**MagicAdmin** -- is a beatiful, fully responsive admin template. Based on **[Bootstrap 4](https://github.com/twbs/bootstrap)** framework. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops. Check out the live preview now and see for yourself.
+**MagicAdmin** -- is a beautiful, fully responsive admin template. Based on **[Bootstrap 4](https://github.com/twbs/bootstrap)** framework. Highly customizable and easy to use. Fits many screen resolutions from small mobile devices to large desktops. Check out the live preview now and see for yourself.
 
 **Download & Preview on [MagicMidia](https://www.magicmidia.com)**
 
 !["MagicAdmin Presentation"] (https://magicadmin.magicmidia.com/magicadmin.png "MagicAdmin Presentation")
+
+**ATTENTION** - This package its not ready for production use yet. Please, by now, only use it to test or to colaborate!
 
 **MagicAdmin** has been carefully coded with clear comments in all of its JS, LESS and HTML files. LESS has been used to increase code customizability.
 
