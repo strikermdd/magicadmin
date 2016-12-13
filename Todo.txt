@@ -1,0 +1,78 @@
+MagicAdmin - Beautiful and Complete Admin Template for Anyone!
+http://magicadmin.magicmidia.com
+
+TODO: Translate all of this to English ...
+
+Problemas:
+################################################################################
+* Alinhar o nome do Usuário/Avatar na NavBar
+* Adicionar um lineheight maior nos elementos do Dropdown do Usuário
+* Implementação da Sidebar direita(Aside) ficando por cima do conteúdo
+* Implementar função de Maximizar um Card
+* Adicionar Área do Usuário na Sidebar
+* Alterar o ícone quando minimizar/maximizar um Card
+* Melhorar questão da responsividade
+* Alinhamento dos Cards de Detalhes da Dashboard
+* Adicionar um Go to Top
+* Adicionar "Flechas" aos Dropdowns
+* Adicionar Animações aos elementos da Interface
+* Consertar o page-loader do plugin PACE
+
+Resolvidos: 
+################################################################################
+* Animação da Sidebar ao sumir/aparecer - OK
+* Minimizar também o Footer e Blocks dos Cards - OK
+* Esconder elementos em determinadas resoluções - OK
+
+A Fazer:
+################################################################################
+* Estruturar Base do Template
+** Finalizar NavBar
+** Menu Sidebar com animação - OK
+** Organização da parte Javascript e das chamadas do template e suas páginas
+** Conteúdo e Sidebar com barra de navegação slim --??
+** Adicionar loading com CSS na página --
+** Adicionar funcionalidade do Botão de FullScreen - OK
+** Dropdowns do Menu de Topo (Notificações, Tarefas e Mensagens) - OK
+** Implementação de Suporte a temas de cores diferentes
+** Implementar Layout com Barra de Topo
+** Implementar Layout de Site (FrontEnd)
+*** Tela Inicial
+*** Tela de Sobre
+*** Tela de Contatos
+*** Tela de Serviços
+*** Tela de Equipe
+*** Tela de Preços
+*** Tela de Fale Conosco
+** Criar Tema de WordPress usando o template modelo
+
+* Dashboard
+** Widget de TODO(A Fazer)
+** Widget de Notificações
+** Widget de Calendário - OK
+** Widget de Tabela
+** Widget de Gráfico
+
+* Elementos Básicos da Interface
+** Cores
+** Botões
+** Elementos Gerais
+*** Dropdowns
+*** Breadcrumbs
+*** 
+** Tipografia
+** Panels*
+** Cards (Fazendo)
+** Widgets
+
+* Tabelas
+** Tabelas Simples
+** DataTables
+
+* Formulários
+
+* Páginas Extras
+** Login
+** Erro 404
+** Chat
+** Timeline
